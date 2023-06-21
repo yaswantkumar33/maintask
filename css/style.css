@@ -1,0 +1,48 @@
+nav i{
+    color: red;
+}
+.navbar-nav li:hover{
+    color: aquamarine!important;
+    border-top: 4px solid aquamarine;
+    padding: 10px;
+    font-size: 15px;
+
+}
+#home{
+    background-color: grey;
+}
+.cusbgc{
+    background-color:aquamarine;
+}
+.box1{
+    background: aquamarine;
+    opacity: 100%;
+}
+.box2{
+    background: aquamarine;
+    opacity: 80%;
+}
+.box3{
+    background: aquamarine;
+    opacity: 70%;
+}
+.planning .container span{
+    color: aquamarine;
+}
+.unli{
+    list-style: none;
+}
+.card-header{
+    background-color: aquamarine;
+    color: white !important;
+}
+.cusbg{
+    background-color: aquamarine;
+    color: white !important;
+}
+
+
+/* watermark styling */
+.watermark{
+    opacity: 20%;
+}
